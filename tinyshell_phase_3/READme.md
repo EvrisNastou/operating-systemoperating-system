@@ -153,7 +153,7 @@ tinyshell>
     ^C
     sleep 100
     ^Z
-````
+```
 - ```
     sleep 100
     ^Z
