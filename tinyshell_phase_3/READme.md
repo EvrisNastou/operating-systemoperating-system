@@ -146,18 +146,15 @@ tinyshell>
 - cat file.txt | grep mystring >> grepresults.txt
 - ```
     sleep 100 &
-    ls -la
-```
+    ls -la ```
 - ``` 
     sleep 100
     ^C
     sleep 100
-    ^Z
-```
+    ^Z ```
 - ```
     sleep 100
     ^Z
     bg %1
     fg %1
-    ^C
-```
+    ^C ```
